@@ -12,7 +12,7 @@ Universal test generation skill for Claude Code that learns from your project.
 ## Installation
 ```bash
 # In Claude Code
-/skill install https://github.com/YOUR_USERNAME/test-generator
+/skill install https://github.com/mkdirrobert/test-generator
 ```
 
 Or download `test-generator.skill` from [Releases](https://github.com/mkdirrobert/test-generator/releases) and:
