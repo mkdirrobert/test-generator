@@ -34,3 +34,7 @@ Just ask naturally:
 2. Assesses quality of existing tests
 3. Generates tests matching YOUR conventions
 4. Learns from your corrections
+
+## License
+
+MIT
